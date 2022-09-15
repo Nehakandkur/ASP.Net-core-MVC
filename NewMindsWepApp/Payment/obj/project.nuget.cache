@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H8rxpDXWdd4KeHqB7j78moGyAU6XHOsjLp7H9bTsRNrISv0dSehM4543kSlZRQ6MQequeUv5XWEFXBu5j0mLzw==",
+  "success": true,
+  "projectFilePath": "F:\\NewMindsWepApp\\Payment\\Payment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\planet\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\planet\\.nuget\\packages\\razorpay.core\\1.0.2\\razorpay.core.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
